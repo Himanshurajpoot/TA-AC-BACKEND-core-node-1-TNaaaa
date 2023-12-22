@@ -16,3 +16,4 @@ console.log(parsedUrl.protocol)
 
 // 6. use parse method from url module to parse query string as well.
 console.log(url.parse(`https://airindia.com/fares/calculate?from=delhi&to=detroit`,true).query)
+
